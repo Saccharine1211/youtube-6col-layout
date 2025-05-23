@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube 6-Column Layout
-// @namespace    https://github.com/yourusername/youtube-6col-layout
+// @namespace    https://github.com/Saccharine1211/youtube-6col-layout
 // @version      1.0
 // @description  Force YouTube to show 6 videos per row on the home page. No video reordering involved.
 // @author       Your Name
@@ -8,8 +8,8 @@
 // @match        https://www.youtube.com/
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/yourusername/youtube-6col-layout/main/youtube-6col.user.js
-// @downloadURL  https://raw.githubusercontent.com/yourusername/youtube-6col-layout/main/youtube-6col.user.js
+// @updateURL    https://raw.githubusercontent.com/Saccharine1211/youtube-6col-layout/main/youtube-6col.user.js
+// @downloadURL  https://raw.githubusercontent.com/Saccharine1211/youtube-6col-layout/main/youtube-6col.user.js
 // ==/UserScript==
 
 (function () {
