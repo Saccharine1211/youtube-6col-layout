@@ -13,6 +13,28 @@ This userscript forces YouTube's homepage to display 6 videos per row by adjusti
 
 👉 [Install Script](https://raw.githubusercontent.com/Saccharine1211/youtube-6col-layout/main/youtube-6col-layout.user.js)
 
+### ⚠️ Note on Chrome Security
+
+If you see the message:
+
+> "This site can't add apps, extensions, or user scripts."
+
+It is due to recent Chrome security restrictions for extensions and scripts from third-party domains.
+
+If installation does not start automatically:
+
+* Try opening the link in **Firefox** (which may not block it)
+* Or follow the manual installation steps below
+
+#### 🛠️ Manual Installation Steps:
+
+1. Click the Tampermonkey (or OrangeMonkey) extension icon → `Dashboard`
+2. Click `+ Create a new script`
+3. Copy and paste the code from [this file](https://github.com/Saccharine1211/youtube-6col-layout/blob/main/youtube-6col-layout.user.js)
+4. Save the script (Ctrl+S)
+
+This ensures installation even when automatic script installation is blocked.
+
 ## 🔧 Features
 
 * Adjusts `--ytd-rich-grid-items-per-row` and related CSS variables to display 6 columns
