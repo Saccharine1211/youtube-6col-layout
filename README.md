@@ -6,6 +6,8 @@ This userscript forces YouTube's homepage to display 6 videos per row by adjusti
 ✅ Safe for Tampermonkey and OrangeMonkey
 ✅ Lightweight and minimal
 
+📄 **한국어 설명은 [README\_KO.md](./README_KO.md) 파일을 참고하세요.**
+
 ## 📦 Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [OrangeMonkey](https://github.com/originell/OrangeMonkey).
@@ -46,6 +48,7 @@ This ensures installation even when automatic script installation is blocked.
 ```
 youtube-6col-layout/
 ├── README.md
+├── README_KO.md
 ├── LICENSE
 └── youtube-6col-layout.user.js
 ```
