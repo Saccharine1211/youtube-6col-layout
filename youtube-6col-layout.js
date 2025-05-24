@@ -3,7 +3,7 @@
 // @namespace    https://github.com/Saccharine1211/youtube-6col-layout
 // @version      1.0
 // @description  Force YouTube to show 6 videos per row on the home page. No video reordering involved.
-// @author       Your Name
+// @author       Saccharine1211
 // @license      MIT
 // @match        https://www.youtube.com/
 // @grant        none
