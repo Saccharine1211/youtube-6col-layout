@@ -11,7 +11,7 @@ This userscript forces YouTube's homepage to display 6 videos per row by adjusti
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [OrangeMonkey](https://github.com/originell/OrangeMonkey).
 2. Click the link below to install:
 
-👉 [Install Script](https://raw.githubusercontent.com/Saccharine1211/youtube-6col-layout/main/youtube-6col.user.js)
+👉 [Install Script](https://raw.githubusercontent.com/Saccharine1211/youtube-6col-layout/main/youtube-6col-layout.user.js)
 
 ## 🔧 Features
 
@@ -25,7 +25,7 @@ This userscript forces YouTube's homepage to display 6 videos per row by adjusti
 youtube-6col-layout/
 ├── README.md
 ├── LICENSE
-└── youtube-6col.user.js
+└── youtube-6col-layout.user.js
 ```
 
 ## 📝 License
